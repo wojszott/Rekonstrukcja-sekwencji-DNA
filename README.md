@@ -5,6 +5,6 @@ Format: NXNXNX od długości L, tworzący sekwencję od długości N z K brakuj�
 
 ### 1. Algorytm dynamiczny
 
-### 1. Algorytm pełny dynamiczny
+### 2. Algorytm pełny dynamiczny
 
-### 1. Algorytm heurystyczny
+### 3. Algorytm heurystyczny
